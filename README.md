@@ -44,15 +44,6 @@
 * [Learn Typescript (scrimba)](https://scrimba.com/learn/typescript)
 * [Build JavaScript applications using TypeScript (microsoft)](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)
 
-## Git
-### Coding
-* [Learn Git & GitHub (Codecademy)](https://www.codecademy.com/learn/learn-git)
-### Video
-* [Introduction to Git and GitHub (Coursera, Google)](https://www.coursera.org/learn/introduction-git-github)
-* [Version Control with Git (Coursera, Atlassian)](https://www.coursera.org/learn/version-control-with-git)
-* [Getting Started with Git and GitHub (Coursera, IBM)](https://www.coursera.org/learn/getting-started-with-git-and-github)
-* [Git and GitHub for Beginners - Crash Course (freecodecamp)](https://www.classcentral.com/classroom/freecodecamp-git-and-github-for-beginners-crash-course-89437)
-
 [//]: # (### Text)
 ### Mixed
 * [Version Control with Git (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
@@ -79,3 +70,12 @@
 ### Video
 ### Text
 ### Mixed
+
+## Git
+### Coding
+* [Learn Git & GitHub (Codecademy)](https://www.codecademy.com/learn/learn-git)
+### Video
+* [Introduction to Git and GitHub (Coursera, Google)](https://www.coursera.org/learn/introduction-git-github)
+* [Version Control with Git (Coursera, Atlassian)](https://www.coursera.org/learn/version-control-with-git)
+* [Getting Started with Git and GitHub (Coursera, IBM)](https://www.coursera.org/learn/getting-started-with-git-and-github)
+* [Git and GitHub for Beginners - Crash Course (freecodecamp)](https://www.classcentral.com/classroom/freecodecamp-git-and-github-for-beginners-crash-course-89437)
