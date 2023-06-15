@@ -62,6 +62,9 @@
 ## React
 ### Coding
 ### Video
+* [Full Modern React Tutorial (Youtube, Net Ninja)](https://www.classcentral.com/classroom/youtube-full-modern-react-tutorial-45814)
+* [Learn React (Scimba)](https://scrimba.com/learn/learnreact)
+* [The Beginner's Guide to React (egghead.io, Kent C. Dodds)](https://egghead.io/courses/the-beginner-s-guide-to-react)
 ### Text
 ### Mixed
 
