@@ -62,8 +62,11 @@
 ## Node.js
 ### Coding
 ### Video
+* [Node JS API Development for Beginners (Udemy)](https://www.udemy.com/course/node-js-api-tutorial/)
+* [Intro to Node JS & Express (Udemy)](https://www.udemy.com/course/intro-to-node-js-express/)
 ### Text
 ### Mixed
+* [Node.js 12: Getting Started (Pluralsight)](https://www.pluralsight.com/courses/nodejs-getting-started)
 
 ## Databases
 ### Coding
