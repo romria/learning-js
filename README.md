@@ -5,80 +5,83 @@
 ## HTML, CSS & Design
 ### Coding
 * [Responsive Web Design (freecodecamp)](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [CSS Grid Garden](https://cssgridgarden.com/)
 ### Video
 * [Introduction to HTML5 (Coursera, University of Michigan)](https://www.coursera.org/learn/html?specialization=web-design)
 * [Introduction to CSS3 (Coursera, University of Michigan)](https://www.coursera.org/learn/introcss?specialization=web-design)
-* [Advanced Styling with Responsive Design (Coursera, University of Michigan)](https://www.coursera.org/learn/responsivedesign?specialization=web-design)
-
-[//]: # (### Text)
-[//]: # (### Mixed)
+* [Kevin Powell (YouTube)](https://www.youtube.com/@KevinPowell)
+### Text
+* [MDN Web Docs: HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+* [MDN Web Docs: CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 
 ## JavaScript
 ### Coding
 * [JavaScript Algorithms and Data Structures (freecodecamp)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [Front End Development Libraries (freecodecamp)](https://www.freecodecamp.org/learn/front-end-development-libraries)
 * [Data Visualization (freecodecamp)](https://www.freecodecamp.org/learn/data-visualization/)
-* [Learn JavaScript (codecademy)](https://www.codecademy.com/learn/introduction-to-javascript)
 ### Video
-* [JavaScript Basics (Coursera, University of California)](https://www.coursera.org/learn/javascript-basics)
-* [Interactivity with JavaScript (Coursera, University of Michigan)](https://www.coursera.org/learn/javascript)
+* [JavaScript Crash Course (YouTube, Traversy Media)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 ### Text
-* [Full Stack JavaScript (The Odin Project)](https://www.theodinproject.com/paths/full-stack-javascript/)
-* [Full Stack Open: Deep Dive Into Modern Web Development (University of Helsinki)](https://fullstackopen.com/en/)
 * [The Modern JavaScript Tutorial (javascript.info)](https://javascript.info/)
+* [Eloquent JavaScript (Marijn Haverbeke)](https://eloquentjavascript.net/)
+* [Full Stack Open: Deep Dive Into Modern Web Development (University of Helsinki)](https://fullstackopen.com/en/)
+* [Full Stack JavaScript (The Odin Project)](https://www.theodinproject.com/paths/full-stack-javascript/)
 ### Mixed
 * [Learn JavaScript for free (Scrimba)](https://scrimba.com/learn/learnjavascript)
 
 ## TypeScript
 ### Coding
-* [Learn TypeScript: Fundamentals (codecademy)](https://www.codecademy.com/learn/learn-typescript-fundamentals)
-* [Learn TypeScript (codecademy)](https://www.codecademy.com/learn/learn-typescript)
-* [Typescript Basics (executeprogram)](https://www.executeprogram.com/courses/typescript-basics)
-* [Typescript (codemastery)](https://codemastery.dev/ts/)
+* [TypeScript Exercises](https://typescript-exercises.github.io/)
+* [Total TypeScript Free Workshops (Matt Pocock)](https://www.totaltypescript.com/workshops)
 ### Video
-* [No BS TS (by Jack Herrington)](https://www.classcentral.com/classroom/youtube-no-bs-ts-97401)
+* [No BS TS (Jack Herrington, YouTube)](https://www.classcentral.com/classroom/youtube-no-bs-ts-97401)
 ### Text
+* [The TypeScript Handbook (official)](https://www.typescriptlang.org/docs/handbook/intro.html)
 * [TypeScript Deep Dive (Basarat Ali)](https://basarat.gitbook.io/typescript/)
-### Mixed: Text, Videos, Exercises, etc.
-* [Up and Running with TypeScript (egghead.io)](https://egghead.io/courses/up-and-running-with-typescript)
-* [Learn Typescript (scrimba)](https://scrimba.com/learn/typescript)
-* [Build JavaScript applications using TypeScript (microsoft)](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)
-
-[//]: # (### Text)
 ### Mixed
-* [Version Control with Git (Udacity)](https://www.udacity.com/course/version-control-with-git--ud123)
-* [Git for Distributed Software Development (EDX, The Linux Foundation)](https://www.edx.org/course/git-for-distributed-development)
-* [Collaborative Coding with Git (FutureLearn, The University of Manchester)](https://www.futurelearn.com/courses/collaborative-coding-with-git)
+* [Build JavaScript applications using TypeScript (Microsoft Learn)](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/)
 
 ## React
 ### Coding
+* [React official tutorial (react.dev)](https://react.dev/learn)
 ### Video
-* [Full Modern React Tutorial (Youtube, Net Ninja)](https://www.classcentral.com/classroom/youtube-full-modern-react-tutorial-45814)
-* [Learn React (Scimba)](https://scrimba.com/learn/learnreact)
+* [React Course (YouTube, Bro Code)](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 * [The Beginner's Guide to React (egghead.io, Kent C. Dodds)](https://egghead.io/courses/the-beginner-s-guide-to-react)
 ### Text
+* [React Docs (react.dev)](https://react.dev/)
 ### Mixed
+* [Learn React (Scrimba)](https://scrimba.com/learn/learnreact)
 
 ## Node.js
 ### Coding
+* [NodeSchool](https://nodeschool.io/)
 ### Video
-* [Node JS API Development for Beginners (Udemy)](https://www.udemy.com/course/node-js-api-tutorial/)
-* [Intro to Node JS & Express (Udemy)](https://www.udemy.com/course/intro-to-node-js-express/)
+* [Node.js and Express.js Full Course (YouTube, freecodecamp)](https://www.youtube.com/watch?v=Oe421EPjeBE)
 ### Text
+* [Node.js official docs / Guides](https://nodejs.org/en/docs/guides)
+* [The Odin Project: NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 ### Mixed
-* [Node.js 12: Getting Started (Pluralsight)](https://www.pluralsight.com/courses/nodejs-getting-started)
 
 ## Databases
 ### Coding
+* [SQLBolt](https://sqlbolt.com/)
+* [SQL Murder Mystery](https://mystery.knightlab.com/)
 ### Video
+* [Database Systems (CMU, YouTube)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
 ### Text
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 ### Mixed
+* [MongoDB University (free courses)](https://learn.mongodb.com/)
 
 ## Git
 ### Coding
+* [Learn Git Branching](https://learngitbranching.js.org/)
 * [Learn Git & GitHub (Codecademy)](https://www.codecademy.com/learn/learn-git)
 ### Video
+* [Git and GitHub for Beginners - Crash Course (freecodecamp, YouTube)](https://www.classcentral.com/classroom/freecodecamp-git-and-github-for-beginners-crash-course-89437)
 * [Introduction to Git and GitHub (Coursera, Google)](https://www.coursera.org/learn/introduction-git-github)
+### Text
+* [Pro Git (Scott Chacon)](https://git-scm.com/book/en/v2)
+### Mixed
 * [Version Control with Git (Coursera, Atlassian)](https://www.coursera.org/learn/version-control-with-git)
-* [Getting Started with Git and GitHub (Coursera, IBM)](https://www.coursera.org/learn/getting-started-with-git-and-github)
-* [Git and GitHub for Beginners - Crash Course (freecodecamp)](https://www.classcentral.com/classroom/freecodecamp-git-and-github-for-beginners-crash-course-89437)
